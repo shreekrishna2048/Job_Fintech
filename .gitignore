@@ -1,0 +1,9 @@
+config.php
+uploads/*
+!uploads/.htaccess
+!uploads/*/
+uploads/*/*
+!uploads/*/.keep
+*.log
+.DS_Store
+fix.php
